@@ -1,0 +1,7 @@
+{
+	pknu:{
+		'name':'부경대',
+		'url':'http://lms.pknu.ac.kr',
+		'login_url':'/ilos/m/lo/login.acl'
+	}
+}

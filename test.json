@@ -5,6 +5,7 @@
 		login_url:'http://lms.pknu.ac.kr/ilos/m/lo/login.acl',
 		main_url:'http://lms.pknu.ac.kr/ilos/m/main/main_form.acl',
 		timeline_url:'http://lms.pknu.ac.kr/ilos/m/st/timeline_list_form.acl',
-		profile_image_url:'http://lms.pknu.ac.kr/ilos/mp/user_image_view.acl'
+		profile_image_url:'http://lms.pknu.ac.kr/ilos/mp/user_image_view.acl',
+		find_subject_url:'http://lms.pknu.ac.kr/ilos/mp/course_register_list2.acl'
 	}
 }

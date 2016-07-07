@@ -1,6 +1,7 @@
 { 
 	부경대:{
 		name:'pknu',
+		url:'http://lms.pknu.ac.kr',
 		login_url:'http://lms.pknu.ac.kr/ilos/m/lo/login.acl',
 		main_url:'http://lms.pknu.ac.kr/ilos/m/main/main_form.acl',
 		timeline_url:'http://lms.pknu.ac.kr/ilos/m/st/timeline_list_form.acl'
